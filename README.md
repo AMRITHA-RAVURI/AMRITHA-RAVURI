@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on ASP.NET MVC, Vue, JavaScript, TypeScript, SQL.
 - 🌱 I’m currently learning Design Patterns in Java, Big Data, System Design.
-- 👯 I’m looking to collaborate on a cloud-based project.
+- 👯 I’m looking forward to collaborate on a cloud-based project.
 - 😄 I'm fond of Medium.
 - 📫 How to reach me: via [LinkedIn](https://www.linkedin.com/in/amritha-vardhini-r-757b0a120/)
 
